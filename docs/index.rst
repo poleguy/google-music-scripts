@@ -20,7 +20,7 @@ Configuration
 -------------
 
 The configuration file uses the `TOML <https://github.com/toml-lang/toml>`_ format.
-It is located in the `user config directory
+The file is named google-music-scripts.toml, located in the `user config directory
 <https://github.com/ActiveState/appdirs#some-example-output>`_
 for your operating system with the app author being **thebigmunch** and app name being
 **google-music-scripts**. If the ``-u, --username`` option is given to a command, the
